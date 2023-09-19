@@ -4,8 +4,11 @@ A multiplayer, digital version of the word game Jotto
 # jotto.py
 This is the 2-player version of the game that you can pass back and forth. Eventually, I want to create a full web-interace or GUI for it.
 
-# manual-guesser.py 
-This allows you to play jotto in real-time with someone and track your guesses. It's kinda cheating, because you don't have to do the mental work of crossing out letters, though...
+# manualGuesser.py 
+This allows you to play jotto in real-time with someone and track your guesses. It's kinda cheating, because you don't have to do the mental work of crossing out letters, thoughhaving a 
+
+# autoGuesser.py
+This is my attmpt at having a computer asking the questions. Eventually, I plan to make this into a play against the computer, but it's a bit clunky right now. Probably has more than a few bugs, and the words don't always make sense.
 
 # Gameplay
 Per Wikipedia (https://en.wikipedia.org/wiki/Jotto), the rules are as follows:
